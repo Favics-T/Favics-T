@@ -9,10 +9,3 @@
 
 ---
 
-### 🔥 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Favics-t&layout=compact&theme=default)](https://github.com/Favics-t/github-readme-stats)
-
----
-
-### 📊 GitHub Stats
-![Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favics-t&show_icons=true&theme=default)
